@@ -1,6 +1,6 @@
 # embodied-ai
 
-I capture my knowledge on Embodied AI here.
+I capture my tooling on Embodied AI here, and references to useful docs.
 
 The aim is to be:
 1. Concise
